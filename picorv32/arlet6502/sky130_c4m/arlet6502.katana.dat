@@ -1,0 +1,4 @@
+#
+# arlet6502
+#   Gates  GCells  placeT      Area       Sat   loadT   loadS       H-ovE       V-ovE Globals   Edges assignT   algoT   algoS    finT    Segs         DWL         fWL WLER(%)      Events     UEvents
+     2381    1089    8.23         0         0    1.30    2750           0           0    5809   14576    0.29    1.98    2750    0.03   13560      114673           0    1.70       20737       13560
